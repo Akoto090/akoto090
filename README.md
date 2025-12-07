@@ -1,16 +1,23 @@
-## Hi there 👋
+<div>
+<h1 align="center">
+Producer & Game Designer
+</h1>
 
-<!--
-**Akoto090/akoto090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Akoto, a 20-year-old junior passionate about production and design in the gaming industry. 
+</p>
+<p align="center">
+  Check out my selfhosted repos at <a href="https://git.akoto.dev">git.akoto.dev</a>!
+</p>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.akoto.dev">
+    <img alt="git" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/git_vector.svg">
+  </a>
+  
+  <a href="https://www.curseforge.com/members/akoto090">
+    <img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
