@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
-junior Producer
+Junior Producer
 </h1>
 
 <p align="center">
