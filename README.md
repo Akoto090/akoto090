@@ -1,10 +1,10 @@
 <div>
 <h1 align="center">
-Producer & Game Designer
+junior Producer
 </h1>
 
 <p align="center">
-I'm Akoto, a 20-year-old junior passionate about production and design in the gaming industry. 
+I'm Akoto, a 21-year-old junior passionate about production and design in the gaming industry. 
 </p>
 <p align="center">
   Check out my selfhosted repos at <a href="https://git.akoto.dev">git.akoto.dev</a>!
